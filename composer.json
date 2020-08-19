@@ -38,7 +38,5 @@
       "name": "rap2h",
       "email": "raphaelht@gmail.com"
     }
-  ],
-  "minimum-stability": "dev",
-  "prefer-stable": true
+  ]
 }
